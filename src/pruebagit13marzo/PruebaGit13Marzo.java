@@ -17,7 +17,7 @@ public class PruebaGit13Marzo {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Hola Enny");
+        System.out.println("Hola Enny. Hola a todos");
     }
     
 }
